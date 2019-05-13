@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="spec.ContactContent" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-12T20:16:24" hostname="Ligias-Air.home" time="12.268">
+  <properties/>
+  <testcase name="Search on Google" classname="spec.ContactContent" time="12.268"/>
+  <system-out><![CDATA[TESTE####################]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.32.498537 (cb2f855cbc7b82e20387eaf9a43f6b99b6105061) on port 16187
+Only local connections are allowed.
+May 12, 2019 10:16:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Starting ChromeDriver 2.32.498537 (cb2f855cbc7b82e20387eaf9a43f6b99b6105061) on port 23839
+Only local connections are allowed.
+May 12, 2019 10:16:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
